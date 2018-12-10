@@ -1,0 +1,13 @@
+group id: john-01
+john graham
+persion id: e1d82271-1e4b-4435-a4f3-2e3870256d21
+face id: 99a6b9cf-817e-464f-ab2e-a342f7dac7be
+face detect id = ed774cda-6502-4f28-9cd7-e4da4fe6a47e
+
+second face id: 4ef38cfe-35d4-4417-b592-30a32c19452d
+
+third face id: ab6f1aa0-5835-4da8-a249-ecb6f9915b50
+
+
+Face List
+ID: john-list-01
